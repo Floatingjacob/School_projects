@@ -1,0 +1,14 @@
+C:\Users\jamil\source\repos\Project 3\bin\Debug\net8.0\Project 3.exe
+C:\Users\jamil\source\repos\Project 3\bin\Debug\net8.0\Project 3.deps.json
+C:\Users\jamil\source\repos\Project 3\bin\Debug\net8.0\Project 3.runtimeconfig.json
+C:\Users\jamil\source\repos\Project 3\bin\Debug\net8.0\Project 3.dll
+C:\Users\jamil\source\repos\Project 3\bin\Debug\net8.0\Project 3.pdb
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\Project 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\Project 3.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\Project 3.AssemblyInfo.vb
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\Project 3.vbproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\Project 3.dll
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\refint\Project 3.dll
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\Project 3.pdb
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\Project 3.genruntimeconfig.cache
+C:\Users\jamil\source\repos\Project 3\obj\Debug\net8.0\ref\Project 3.dll
