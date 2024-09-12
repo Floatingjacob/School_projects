@@ -1,0 +1,14 @@
+C:\Users\jamil\source\repos\week 5\bin\Debug\net8.0\week 5.exe
+C:\Users\jamil\source\repos\week 5\bin\Debug\net8.0\week 5.deps.json
+C:\Users\jamil\source\repos\week 5\bin\Debug\net8.0\week 5.runtimeconfig.json
+C:\Users\jamil\source\repos\week 5\bin\Debug\net8.0\week 5.dll
+C:\Users\jamil\source\repos\week 5\bin\Debug\net8.0\week 5.pdb
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\week 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\week 5.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\week 5.AssemblyInfo.vb
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\week 5.vbproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\week 5.dll
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\refint\week 5.dll
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\week 5.pdb
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\week 5.genruntimeconfig.cache
+C:\Users\jamil\source\repos\week 5\obj\Debug\net8.0\ref\week 5.dll
