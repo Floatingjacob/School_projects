@@ -1,0 +1,16 @@
+C:\Users\jamil\source\repos\Personal Info Stealer\bin\Debug\net8.0-windows\Personal Info Stealer.exe
+C:\Users\jamil\source\repos\Personal Info Stealer\bin\Debug\net8.0-windows\Personal Info Stealer.deps.json
+C:\Users\jamil\source\repos\Personal Info Stealer\bin\Debug\net8.0-windows\Personal Info Stealer.runtimeconfig.json
+C:\Users\jamil\source\repos\Personal Info Stealer\bin\Debug\net8.0-windows\Personal Info Stealer.dll
+C:\Users\jamil\source\repos\Personal Info Stealer\bin\Debug\net8.0-windows\Personal Info Stealer.pdb
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal_Info_Stealer.Form1.resources
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.vbproj.GenerateResource.cache
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.AssemblyInfo.vb
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.vbproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.dll
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\refint\Personal Info Stealer.dll
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.pdb
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\Personal Info Stealer.genruntimeconfig.cache
+C:\Users\jamil\source\repos\Personal Info Stealer\obj\Debug\net8.0-windows\ref\Personal Info Stealer.dll
