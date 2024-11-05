@@ -60,7 +60,7 @@ Public Class randomstuff
                 dot2()
         End Select
     End Sub
-    Private Sub dot2()
+    Public Overridable Sub dot2()
         Dim rnd As New Random()
         Dim randomNumber As Integer = rnd.Next(1, 5)
         Select Case randomNumber
@@ -81,6 +81,28 @@ Public Class randomstuff
     End Sub
     Public Sub New(ByVal randomstuff As String)
         Me.randomstuff = randomstuff
+
+    End Sub
+End Class
+Public Class morrndstuff
+    Inherits randomstuff
+    Public Sub New()
+        dot1()
+    End Sub
+    Public Overrides Sub dot2()
+        Dim rnd As New Random()
+        Dim randomNumber As Integer = rnd.Next(1, 5)
+        Select Case randomNumber
+            Case 1
+                idc.dotlbl.Text += "!"
+                dot1()
+            Case 2
+                Try
+                    idc.dotlbl.Text = ""
+                    dot1()
+                Catch
+                End Try
+        End Select
 
     End Sub
 End Class
