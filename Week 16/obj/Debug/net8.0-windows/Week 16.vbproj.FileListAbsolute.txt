@@ -1,0 +1,16 @@
+C:\Users\jamil\source\repos\Week 16\bin\Debug\net8.0-windows\Week 16.exe
+C:\Users\jamil\source\repos\Week 16\bin\Debug\net8.0-windows\Week 16.deps.json
+C:\Users\jamil\source\repos\Week 16\bin\Debug\net8.0-windows\Week 16.runtimeconfig.json
+C:\Users\jamil\source\repos\Week 16\bin\Debug\net8.0-windows\Week 16.dll
+C:\Users\jamil\source\repos\Week 16\bin\Debug\net8.0-windows\Week 16.pdb
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week_16.Form1.resources
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.vbproj.GenerateResource.cache
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.AssemblyInfo.vb
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.vbproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.dll
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\refint\Week 16.dll
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.pdb
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\Week 16.genruntimeconfig.cache
+C:\Users\jamil\source\repos\Week 16\obj\Debug\net8.0-windows\ref\Week 16.dll
