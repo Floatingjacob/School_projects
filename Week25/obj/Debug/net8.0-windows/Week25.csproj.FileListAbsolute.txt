@@ -1,0 +1,16 @@
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.Form1.resources
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.csproj.GenerateResource.cache
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.AssemblyInfo.cs
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.csproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\Week25\bin\Debug\net8.0-windows\Week25.exe
+C:\Users\jamil\source\repos\Week25\bin\Debug\net8.0-windows\Week25.deps.json
+C:\Users\jamil\source\repos\Week25\bin\Debug\net8.0-windows\Week25.runtimeconfig.json
+C:\Users\jamil\source\repos\Week25\bin\Debug\net8.0-windows\Week25.dll
+C:\Users\jamil\source\repos\Week25\bin\Debug\net8.0-windows\Week25.pdb
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.dll
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\refint\Week25.dll
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.pdb
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\Week25.genruntimeconfig.cache
+C:\Users\jamil\source\repos\Week25\obj\Debug\net8.0-windows\ref\Week25.dll
