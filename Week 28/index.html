@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<style>
+    .memes {
+        width: 300px;
+        height: 150px;
+    }
+    .btn-gradient {
+        background-image: linear-gradient(to right, var(--bs-btn-bg) 0%, var(--bs-btn-bg-gradient) 100%);
+        background-size: 200% auto;
+        transition: background-position 0.5s ease-out;
+    }
+
+        .btn-gradient:hover {
+            background-position: right center;
+        }
+
+    .notouchey.btn-gradient {
+        --bs-btn-bg: #dc3545;
+        --bs-btn-bg-gradient: #ff7d87;
+    }
+</style>
+<body>
+
+    <div class="SomewhatOrganizedContent">
+       
+        <button id="notouchey" type="button" class="btn notouchey btn-gradient">DO NOT TOUCH</button>
+        <div id="memes" class="memes" data-ride="carousel" data-interval="2000">
+
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="slide1.jpg" alt="slide1">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="slide2.jpg" alt="slide2">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="slide2.jpg" alt="slide3">
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+<script>
+    var count = 0;
+    document.getElementById("notouchey").onclick = youclickedme;
+
+    function youclickedme() {
+        switch(count) {
+        case count = 0:{
+                alert("I said, DONT TOUCH!!!");
+                count++
+                break;
+            }
+                 
+        case count = 1:{
+                alert("No. Seriously, don't touch");
+                count++
+                break;
+            }
+            case count = 2: {
+                alert("stop poking me!");
+                count++
+                break;
+            }
+            case count = 3: {
+                open("https://youtu.be/dQw4w9WgXcQ")
+                count = 0;
+                break;
+            }
+    }
+}
+</script>
