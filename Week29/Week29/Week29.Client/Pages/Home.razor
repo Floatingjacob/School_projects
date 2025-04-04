@@ -1,0 +1,25 @@
+﻿@page "/"
+
+<PageTitle>OneSidedConversation</PageTitle>
+<div id="chat">
+    <MudChat ChatPosition="ChatBubblePosition.End" Variant="Variant.Outlined" Color="Color.Primary">
+        @foreach (var message in Messages)
+        {
+            <MudChatBubble> @message </MudChatBubble>
+        }
+    </MudChat>
+	<MudTextField @bind-Value="message" Label="Type a message..." Variant="Variant.Outlined" Margin="Margin.Normal"></MudTextField>
+	<MudButton OnClick="send" id="send">Send</MudButton>
+
+</div>
+
+@code {
+    private List<string> Messages = new();
+    public required string message { get; set; }
+   public void send()
+    {
+Messages.Add(message);
+message = string.Empty;
+StateHasChanged();
+    }
+}
