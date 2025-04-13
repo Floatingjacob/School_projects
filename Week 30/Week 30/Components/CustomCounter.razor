@@ -1,0 +1,29 @@
+﻿@using MudBlazor
+
+<MudCard>
+    <MudCardContent>
+        <MudText Typo="Typo.h4" Color="Color.Primary">Counter</MudText>
+        <MudText Typo="Typo.h5">@Counter</MudText>
+    </MudCardContent>
+    <MudCardActions>
+        <MudButton Color="Color.Primary" OnClick="IncrementCounter">Increment</MudButton>
+        <MudButton Color="Color.Secondary" OnClick="DecrementCounter">Decrement</MudButton>
+        <MudButton Color="Color.Error" OnClick="ResetCounter">Reset</MudButton>
+    </MudCardActions>
+</MudCard>
+
+@code {
+    private int Counter { get; set; } = 0;
+    private void IncrementCounter()
+    {
+        Counter++;
+    }
+    private void DecrementCounter()
+    {
+        Counter--;
+    }
+    private void ResetCounter()
+    {
+        Counter = 0;
+    }
+}

@@ -1,0 +1,48 @@
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\Week 30.csproj.AssemblyReference.cache
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\Week 30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\Week 30.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\Week 30.AssemblyInfo.cs
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\Week 30.csproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\`Week_30.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\appsettings.json
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\`Week_30.staticwebassets.runtime.json
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\`Week_30.staticwebassets.endpoints.json
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\`Week_30.exe
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\`Week_30.deps.json
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\`Week_30.runtimeconfig.json
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\`Week_30.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\`Week_30.pdb
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.Extensions.Localization.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\Microsoft.JSInterop.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\bin\Debug\net9.0\MudBlazor.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\scopedcss\bundle\`Week_30.styles.css
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\compressed\tzxjg6is5z-u34o0xbo4m.gz
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\compressed\0wz98yz2xy-gtd3sm4n1q.gz
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets\msbuild.`Week_30.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets\msbuild.`Week_30.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets\msbuild.build.`Week_30.props
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.`Week_30.props
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.`Week_30.props
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\Week 30.csproj.Up2Date
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\`Week_30.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\refint\`Week_30.dll
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\`Week_30.pdb
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\Week 30.genruntimeconfig.cache
+C:\Users\jamil\source\repos\Week 30\Week 30\obj\Debug\net9.0\ref\`Week_30.dll
