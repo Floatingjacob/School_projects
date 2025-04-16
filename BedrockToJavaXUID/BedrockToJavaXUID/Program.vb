@@ -9,9 +9,9 @@ Module Program
 
     Public Async Function Run() As Task
         Console.ForegroundColor = ConsoleColor.Cyan
-        Console.WriteLine("Lookup Bedrock XUID and convert to Java UUID-style format.")
+        Console.WriteLine("This program converts a Minecraft bedrock XUID to the Minecraft Java UUID format.")
         Console.ForegroundColor = ConsoleColor.Yellow
-        Console.Write("Type the Minecraft Bedrock username here: ")
+        Console.Write("Type a Minecraft Bedrock username here: ")
         Dim username = Console.ReadLine()
         Console.ForegroundColor = ConsoleColor.White
         Console.Write("[DEBUG] ")
