@@ -1,0 +1,14 @@
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\bin\Debug\net9.0\BedrockToJavaXUID.exe
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\bin\Debug\net9.0\BedrockToJavaXUID.deps.json
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\bin\Debug\net9.0\BedrockToJavaXUID.runtimeconfig.json
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\bin\Debug\net9.0\BedrockToJavaXUID.dll
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\bin\Debug\net9.0\BedrockToJavaXUID.pdb
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\BedrockToJavaXUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\BedrockToJavaXUID.AssemblyInfoInputs.cache
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\BedrockToJavaXUID.AssemblyInfo.vb
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\BedrockToJavaXUID.vbproj.CoreCompileInputs.cache
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\BedrockToJavaXUID.dll
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\refint\BedrockToJavaXUID.dll
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\BedrockToJavaXUID.pdb
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\BedrockToJavaXUID.genruntimeconfig.cache
+C:\Users\jamil\source\repos\BedrockToJavaXUID\BedrockToJavaXUID\obj\Debug\net9.0\ref\BedrockToJavaXUID.dll
